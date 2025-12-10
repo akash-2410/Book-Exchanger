@@ -8,10 +8,7 @@
     - [Backend (book-social-network)](#backend-book-social-network)
     - [Frontend (book-social-network-ui)](#frontend-book-social-network-ui)
 - [Learning Objectives](#learning-objectives)
-- [License](#license)
 - [Getting Started](#getting-started)
-- [Contributors](#contributors)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -81,10 +78,6 @@ By following this project, students will learn:
 - Dockerizing the infrastructure
 - CI/CD pipeline & deployment
 
-## License
-
-This project is licensed under the Apache License 2.0. See the [LICENSE](LICENSE) file for details.
-
 ## Getting Started
 
 To get started with the Book Social Network project, follow the setup instructions in the respective directories:
@@ -92,10 +85,3 @@ To get started with the Book Social Network project, follow the setup instructio
 - [Backend Setup Instructions](/book-network/README.md)
 - [Frontend Setup Instructions](book-network-ui/README.md)
 
-## Contributors
-
-- [Ali Bouali](https://github.com/ali-bouali)
-
-## Acknowledgments
-
-Special thanks to the developers and maintainers of the technologies used in this project. Their hard work and dedication make projects like this possible.
