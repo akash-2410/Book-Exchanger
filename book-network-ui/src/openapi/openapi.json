@@ -1,13 +1,12 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "OpenApi specification - Alibou",
+    "title": "OpenApi specification",
     "description": "OpenApi documentation for Spring Security",
     "termsOfService": "Terms of service",
     "contact": {
-      "name": "Alibou",
-      "url": "https://aliboucoding.com/course",
-      "email": "contact@aliboucoding.com"
+      "name": "Akash",
+      "email": "onlyforcoding2410@gmail.com"
     },
     "license": {
       "name": "Licence name",
